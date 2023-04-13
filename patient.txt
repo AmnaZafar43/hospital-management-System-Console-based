@@ -1,0 +1,4 @@
+aleeza,24,heart,AB+,0987654345678,111,female,0987876565,Defence
+moazam,23,fever,AB+,09876566565656,222,male,098786756454534,Model,Town
+amna,19,eyesight,O+,0987654321234,333,female,0878654534232,islamabad
+amad,20,Brain,migraine,nm,444,male,098765432322,dha
